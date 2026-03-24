@@ -44,6 +44,6 @@ Valorizo o trabalho em equipe, aprendizado contínuo e a busca constante por boa
 ---
 
 📫 **Vamos nos conectar?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiane-albuquerque-78b029175)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taiane.albuquerque.1994@gmail.com)
 
