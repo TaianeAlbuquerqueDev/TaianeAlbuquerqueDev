@@ -1,106 +1,96 @@
-# 👋 Olá! Eu sou Taiane Albuquerque 
+<div align="center">
 
-🎓 Graduada em Administração pela UNIFASE  
-👨‍💻 Desenvolvedora Full Stack formada pela Residência de Software Serratec  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6622F0&height=180&section=header&text=Taiane%20Albuquerque&fontSize=42&fontColor=fff&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+
+</div>
 
 ---
 
-## 🛠️ Linguagens e Ferramentas
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br>Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/><br>SpringBoot
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br>Node.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48"/><br>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br>VSCode
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48"/><br>Postman
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="48"/><br>Insomnia
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="48"/><br>DBeaver
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/><br>API Rest
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/><br>Firebase
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48"/><br>Swagger
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br>HTML5
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br>CSS3
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br>React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48"/><br>Vue
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="48"/><br>Angular
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><br>TypeScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/github/000000" width="48"/><br>GitHub
-    </td>
-  </tr>
-</table>
+### 👩‍💻 Desenvolvedora Full Stack | Java · Spring Boot · React · TypeScript
+
+🎓 Graduada em Administração · Formada pela **Residência de Software Serratec**  
+🚀 Em transição de carreira com foco em desenvolvimento backend e full stack  
+💜 Apaixonada por tecnologia, boas práticas e soluções com impacto real  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiane-albuquerque-78b029175)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiane.albuquerque.1994@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaianeAlbuquerqueDev)
+
+</div>
 
 ---
 
 ## 💡 Sobre mim
-Sou graduada em Administração de Empresas pela UNIFASE e me redescobri profissionalmente na área de tecnologia. Atualmente em transição de carreira, encontrei na tecnologia um propósito para criar soluções reais e acessíveis. Sou curiosa, proativa e gosto de trabalhar em equipe. Busco constantemente aprimorar minhas habilidades e contribuir para projetos com impacto positivo.
 
-Recentemente concluí a formação como Desenvolvedora Full Stack pela Residência em Software do Serratec, onde desenvolvi competências sólidas em lógica de programação, desenvolvimento web e mobile, bancos de dados relacionais e não relacionais, POO e construção de APIs RESTful.
+Sou desenvolvedora full stack formada pela **Residência em Software do Serratec**, com background em Administração de Empresas pela UNIFASE. Me redescobri na tecnologia e encontrei nela um propósito: criar soluções reais, eficientes e acessíveis.
 
-Utilizo tecnologias como Java (Spring Boot), JavaScript/TypeScript, React, Node.js e React Native, e ferramentas como Postman, Firebase, PostgreSQL, pgAdmin, Swagger (OpenAPI), GitHub, LetsView, Expo Go, entre outras.
+Tenho experiência prática em desenvolvimento de **APIs RESTful**, aplicações **web e mobile**, bancos de dados relacionais e não relacionais, e metodologias ágeis. Trabalho bem em equipe, sou proativa e busco constantemente aprimorar minhas habilidades.
 
-Tenho interesse em atuar como desenvolvedora backend, frontend ou full stack, contribuindo em projetos que busquem soluções eficientes e acessíveis por meio da tecnologia.
-
-Valorizo o trabalho em equipe, aprendizado contínuo e a busca constante por boas práticas de desenvolvimento. Estou aberto a novas oportunidades e conexões na área de tecnologia!
+> 🎯 **Buscando oportunidades como Desenvolvedora Backend, Frontend ou Full Stack**
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Stack Tecnológica
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=TaianeAlbuquerqueDev&show_icons=true&theme=github_dark&hide_title=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TaianeAlbuquerqueDev&layout=compact&theme=github_dark)
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_REST-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Banco de Dados
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### Ferramentas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
-📫 **Vamos nos conectar?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiane-albuquerque-78b029175)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taiane.albuquerque.1994@gmail.com)
+## 📊 Estatísticas
 
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TaianeAlbuquerqueDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaianeAlbuquerqueDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=TaianeAlbuquerqueDev&theme=tokyonight&hide_border=true&locale=pt_BR)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6622F0&height=100&section=footer" width="100%"/>
+
+</div>
